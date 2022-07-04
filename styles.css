@@ -135,3 +135,44 @@ body{
     overflow-x: hidden;
     font-family: "montserrat";
 }
+
+
+
+@media (max-width: 1240px) {
+.intro{
+    text-align: center;
+    padding: 50px 25px;
+}
+.title-img{
+    height:200px;
+    width: 200px;
+    margin-right: 100px;
+}
+.work{
+    font-size: 1.5rem;
+}
+.my-work{
+    padding: 30px;
+}
+.testimonials-image{
+    height: 90px;
+    width: 90px;
+    margin-left: 80px;
+    margin-right: 20px;
+}
+.hire-text{
+    color: rgb(88, 87, 87);
+    font-size: 2rem;
+}
+.hire{
+    padding: 0;
+    color: rgb(91, 91, 91);
+}
+.card{
+    margin-bottom: 20px;
+}
+.my-skills{
+    color: rgb(60, 59, 59);
+    font-size: 2rem;
+}
+}
